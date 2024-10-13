@@ -1,0 +1,1 @@
+http://www.rudolf.net.pl/sp9kat/wp-content/uploads/2012/08/odpowiedzi-kf-calosc.pdf
