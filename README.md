@@ -1,5 +1,5 @@
 # Opis:
-To repozytorium za zadanie zebrać wszystkie pytania związanie z egzaminem na świadectwo klasy A operatora urządzeń radiowych w służbie radiokomunikacyjnej amatorskiej.
+To repozytorium ma za zadanie zebrać wszystkie pytania związanie z egzaminem na świadectwo klasy A operatora urządzeń radiowych w służbie radiokomunikacyjnej amatorskiej.
 
 # Dostępne materiały
 Na internecie możemy znaleźć bardzo dużo dobrych źródeł informacji związanych z przygotowaniami do egzaminu. Z ogólnodostępnych źródeł można wyróżnić:
